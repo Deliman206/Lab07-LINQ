@@ -1,0 +1,11 @@
+\\Mac\Home\codefellows\dn401\Lab07-LINQ\Lab07LINQ\Lab07LINQ\bin\Debug\netcoreapp2.1\Lab07LINQ.deps.json
+\\Mac\Home\codefellows\dn401\Lab07-LINQ\Lab07LINQ\Lab07LINQ\bin\Debug\netcoreapp2.1\Lab07LINQ.runtimeconfig.json
+\\Mac\Home\codefellows\dn401\Lab07-LINQ\Lab07LINQ\Lab07LINQ\bin\Debug\netcoreapp2.1\Lab07LINQ.runtimeconfig.dev.json
+\\Mac\Home\codefellows\dn401\Lab07-LINQ\Lab07LINQ\Lab07LINQ\bin\Debug\netcoreapp2.1\Lab07LINQ.dll
+\\Mac\Home\codefellows\dn401\Lab07-LINQ\Lab07LINQ\Lab07LINQ\obj\Debug\netcoreapp2.1\Lab07LINQ.csprojAssemblyReference.cache
+\\Mac\Home\codefellows\dn401\Lab07-LINQ\Lab07LINQ\Lab07LINQ\obj\Debug\netcoreapp2.1\Lab07LINQ.csproj.CoreCompileInputs.cache
+\\Mac\Home\codefellows\dn401\Lab07-LINQ\Lab07LINQ\Lab07LINQ\obj\Debug\netcoreapp2.1\Lab07LINQ.AssemblyInfoInputs.cache
+\\Mac\Home\codefellows\dn401\Lab07-LINQ\Lab07LINQ\Lab07LINQ\obj\Debug\netcoreapp2.1\Lab07LINQ.AssemblyInfo.cs
+\\Mac\Home\codefellows\dn401\Lab07-LINQ\Lab07LINQ\Lab07LINQ\bin\Debug\netcoreapp2.1\Lab07LINQ.pdb
+\\Mac\Home\codefellows\dn401\Lab07-LINQ\Lab07LINQ\Lab07LINQ\obj\Debug\netcoreapp2.1\Lab07LINQ.dll
+\\Mac\Home\codefellows\dn401\Lab07-LINQ\Lab07LINQ\Lab07LINQ\obj\Debug\netcoreapp2.1\Lab07LINQ.pdb
