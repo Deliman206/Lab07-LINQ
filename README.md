@@ -55,4 +55,4 @@ IEnumerable<string> neighborhoodsNoDupes =
 
 just run the program. it will create a list to answer a question pertaining to the collection created from the provided JSON file.
 
-![] = (./assets/LINQSH.png)
+![LinqSnapshot] =(./assets/LINQSH.png)
