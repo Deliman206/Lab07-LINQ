@@ -13,7 +13,7 @@ namespace Lab07LINQ
         static void Main(string[] args)
         {
             // Convert JSON to string
-            string jsonFile = ReadFile("../../../data.json");
+            string jsonFile = ReadFile(@"~/../../../../data.json");
             // Create Objects from JSON string to create Collection
             RootObject locations = JsonConvert.DeserializeObject<RootObject>(jsonFile);
 
